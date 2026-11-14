@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="374.4pt" height="184.141159pt" viewBox="0 0 374.4 184.141159" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-18T06:49:44.848487</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.8, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 184.141159 
+L 374.4 184.141159 
+L 374.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 90.7776 61.8624 
+L 283.6224 61.8624 
+Q 287.1936 61.8624 287.1936 58.536 
+L 287.1936 25.272 
+Q 287.1936 21.9456 283.6224 21.9456 
+L 90.7776 21.9456 
+Q 87.2064 21.9456 87.2064 25.272 
+L 87.2064 58.536 
+Q 87.2064 61.8624 90.7776 61.8624 
+z
+" clip-path="url(#p6d6556956c)" style="fill: #edf4ef; stroke: #b8d0c2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 12.2112 151.6752 
+L 115.776 151.6752 
+Q 119.3472 151.6752 119.3472 148.3488 
+L 119.3472 106.7688 
+Q 119.3472 103.4424 115.776 103.4424 
+L 12.2112 103.4424 
+Q 8.64 103.4424 8.64 106.7688 
+L 8.64 148.3488 
+Q 8.64 151.6752 12.2112 151.6752 
+z
+" clip-path="url(#p6d6556956c)" style="fill: #edf4ef; stroke: #b8d0c2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 135.4176 151.6752 
+L 238.9824 151.6752 
+Q 242.5536 151.6752 242.5536 148.3488 
+L 242.5536 106.7688 
+Q 242.5536 103.4424 238.9824 103.4424 
+L 135.4176 103.4424 
+Q 131.8464 103.4424 131.8464 106.7688 
+L 131.8464 148.3488 
+Q 131.8464 151.6752 135.4176 151.6752 
+z
+" clip-path="url(#p6d6556956c)" style="fill: #edf4ef; stroke: #b8d0c2; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 258.624 151.6752 
+L 362.1888 151.6752 
+Q 365.76 151.6752 365.76 148.3488 
+L 365.76 106.7688 
+Q 365.76 103.4424 362.1888 103.4424 
+L 258.624 103.4424 
+Q 255.0528 103.4424 255.0528 106.7688 
+L 255.0528 148.3488 
+Q 255.0528 151.6752 258.624 151.6752 
+z
+" clip-path="url(#p6d6556956c)" style="fill: #edf4ef; stroke: #b8d0c2; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #16372f" x="187.2" y="44.939312" transform="rotate(-0 187.2 44.939312)">Contribución total</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #16372f" x="63.9936" y="130.594113" transform="rotate(-0 63.9936 130.594113)">Compradores</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #16372f" x="187.2" y="130.594113" transform="rotate(-0 187.2 130.594113)">Frecuencia</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #16372f" transform="translate(270.757416 124.435316)">Contribución</text>
+    <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; fill: #16372f" transform="translate(274.933119 136.752909)">por compra</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 185.30874 62.500667 
+Q 125.597093 82.652301 67.368515 102.303425 
+" style="fill: none; stroke: #287f68; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 71.798031 102.919365 
+L 67.368515 102.303425 
+L 70.518976 99.129376 
+" style="fill: none; stroke: #287f68; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 187.2 63.864757 
+Q 187.2 82.655924 187.2 99.881844 
+" style="fill: none; stroke: #287f68; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 189.2 95.881844 
+L 187.2 99.881844 
+L 185.2 95.881844 
+" style="fill: none; stroke: #287f68; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 189.09126 62.500667 
+Q 248.802907 82.652301 307.031485 102.303425 
+" style="fill: none; stroke: #287f68; stroke-width: 1.4; stroke-linecap: round"/>
+    <path d="M 303.881024 99.129376 
+L 307.031485 102.303425 
+L 302.601969 102.919365 
+" style="fill: none; stroke: #287f68; stroke-width: 1.4; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #64756d" x="187.2" y="173.62944" transform="rotate(-0 187.2 173.62944)">Modelo: compradores × frecuencia × contribución por compra</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6d6556956c">
+   <rect x="8.64" y="8.64" width="357.12" height="166.32"/>
+  </clipPath>
+ </defs>
+</svg>

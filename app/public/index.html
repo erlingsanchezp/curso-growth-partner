@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aprende Growth Partner desde cero con datos, sistemas, ejercicios y evaluación. Curso estático de estudio autónomo.">
+  <meta name="theme-color" content="#16372f">
+  <title>Growth Partner · Aula de sistemas</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+  <script src="course-data.js" defer></script>
+  <script src="core.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#contenido" id="skip">Saltar al contenido</a>
+  <aside class="sidebar" id="sidebar" aria-label="Menú principal">
+    <button class="icon-button sidebar-close" id="menu-close" aria-label="Cerrar menú">×</button>
+    <a class="brand" href="#inicio" aria-label="Growth Partner, inicio"><span class="brand-mark">gp<span>.</span></span><span>GROWTH PARTNER<small>AULA DE SISTEMAS</small></span></a>
+    <div class="nav-label">TU FORMACIÓN</div>
+    <nav id="navigation">
+      <a href="#inicio" data-nav="inicio"><span class="nav-symbol" aria-hidden="true">⌂</span>Vista general</a>
+      <a href="#ruta" data-nav="ruta"><span class="nav-symbol" aria-hidden="true">◫</span>Ruta de aprendizaje</a>
+      <a href="#laboratorios" data-nav="laboratorios"><span class="nav-symbol" aria-hidden="true">⊞</span>Laboratorio de datos</a>
+      <a href="#casos" data-nav="casos"><span class="nav-symbol" aria-hidden="true">◇</span>Casos de negocio</a>
+      <a href="#proyecto" data-nav="proyecto"><span class="nav-symbol" aria-hidden="true">◎</span>Proyecto final</a>
+      <a href="#recursos" data-nav="recursos"><span class="nav-symbol" aria-hidden="true">▤</span>Libro y recursos</a>
+      <a href="#progreso" data-nav="progreso"><span class="nav-symbol" aria-hidden="true">↗</span>Mi progreso</a>
+    </nav>
+    <div class="sidebar-bottom"><div class="tiny-label">TU RITMO, TU EVIDENCIA</div><p>No necesitas vivir en redes.<br>Necesitas entender el negocio.</p><div class="mini-progress"><span id="side-progress"></span></div><small id="side-count">0 de 24 módulos completos</small><a class="book-side" href="libro/Growth_Partner_desde_cero.pdf" download>Descargar el libro <span aria-hidden="true">↓</span></a></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div class="topbar-left"><button class="icon-button menu-toggle" id="menu-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="sidebar">☰</button><span class="top-label">APRENDER · PRACTICAR · COMPROBAR</span><span class="mobile-brand">Growth Partner</span></div><button class="quiet-button" data-action="export">Guardar respaldo <span aria-hidden="true">↓</span></button></header>
+    <div id="storage-warning" class="storage-warning" role="status" hidden></div>
+    <main id="contenido" tabindex="-1" aria-label="Contenido de formación"></main>
+    <footer class="footer"><span>Growth Partner / Aula de sistemas</span><span>Estudio autónomo · v1.0 · <a href="#recursos">Fuentes y privacidad</a></span></footer>
+  </div>
+  <input type="file" id="import-file" accept="application/json,.json" hidden>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <noscript><div class="noscript">Activa JavaScript para usar el curso interactivo. Puedes leer el <a href="libro/Growth_Partner_desde_cero.pdf">libro en PDF</a> sin JavaScript.</div></noscript>
+</body>
+</html>

@@ -1,0 +1,5 @@
+﻿order_id,customer_id,paid_at,net_amount,variable_cost,status,tipo_dato
+A,C01,2026-01-05,100,60,paid,simulado
+B,C02,2026-01-06,60,35,paid,simulado
+C,C03,,40,0,cancelled,simulado
+D,C01,2026-02-07,80,45,paid,simulado

@@ -1,0 +1,5 @@
+{"event_id": "E1", "entity_id": "L1", "type": "lead_created"}
+{"event_id": "E1", "entity_id": "L1", "type": "lead_created"}
+{"event_id": "E2", "entity_id": "L2", "type": "lead_created"}
+{"event_id": "E3", "entity_id": "L2", "type": "contact_opted_out"}
+{"event_id": "E4", "entity_id": "L3", "type": "lead_created"}

@@ -1,0 +1,5 @@
+﻿cohorte,clientes_iniciales,mes_0_activos,mes_1_activos,mes_2_activos,mes_3_activos,tipo_dato
+enero,100,100,80,70,65,simulado
+febrero,100,100,85,75,,simulado
+marzo,100,100,82,,,simulado
+abril,100,100,,,,simulado
